@@ -9,6 +9,7 @@ christmasTree(5) || christmas_tree(height) should return:
   *****  
  ******* 
 *********
+
 Height passed is always an integer between 0 and 100.
 
 Use \n for newlines between each line.
